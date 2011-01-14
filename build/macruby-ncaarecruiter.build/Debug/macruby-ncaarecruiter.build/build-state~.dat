@@ -1,0 +1,168 @@
+Tmacruby-ncaarecruiter
+v7
+r0
+t316406177.016650
+cCheck dependencies
+cProcessInfoPlistFile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/macruby-ncaarecruiter.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib
+cCompileC build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/main.o /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter normal x86_64
+cTouch /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004D069C6E000000000000005F
+t1292278894
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004D06A04200000000014E17D0
+t1292279874
+s21895120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/InfoPlist.strings
+c000000004D25382900000000000000CA
+t1294284841
+s202
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib
+c000000004D2BC20B000000000001DDCD
+t1294713355
+s122317
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app
+t1294713377
+s102
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Info.plist
+t1294713376
+s811
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter
+t1294713377
+s9136
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/PkgInfo
+t1294713376
+s8
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1294713376
+s202
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/MainMenu.nib
+t1294713376
+s20488
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/rb_main.rb
+t1294713376
+s633
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/macruby-ncaarecruiter.LinkFileList
+c000000004D2BC22000000000000000A3
+t1294713376
+s163
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/main.o
+t1294713376
+s5404
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m
+c000000004D2538290000000000000109
+t1294284841
+s265
+i<MacRuby/MacRuby.h>
+
+N/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/rb_main.rb
+c000000004D2538290000000000000279
+t1294284841
+s633
+
+NInfo.plist
+c000000004D2538290000000000000352
+t1294284841
+s850
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316406176#316406176#0(0"0(0#1#0"8618748832#0"0#
+
+CCompileC build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/main.o /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316406176.620045
+e316406176.991321
+r1
+xCompileC
+xbuild/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/main.o
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m316406176#316406176#0(0"0(0#0#72"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m8618912480#1342"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/macruby-ncaarecruiter.hmap -F/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug -F/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug -I/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/include -I/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/DerivedSources/x86_64 -I/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/DerivedSources -c /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/main.m -o /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib
+s316406176.406182
+e316406176.619965
+r1
+xCompileXIB
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib:377: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib316406176#316406176#0(215"/* com.apple.ibtool.document.warnings *//Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib:377: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.1(22@66"Image scaling is not supported on Mac OS X versions prior to 10.5.316406176#18446744073709551615#0#0(6@92"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib316406155#377#0#377#0#0"0(0#0#92"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib8615867008#459"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s316406176.404791
+e316406176.432286
+r1
+xCopyStringsFile
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings316406176#316406176#0(0"0(0#0#97"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/English.lproj/InfoPlist.strings8616112992#434"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/macruby-ncaarecruiter.app/Contents/Resources/rb_main.rb rb_main.rb
+s316406176.405586
+e316406176.411307
+r1
+xCpResource
+xbuild/Debug/macruby-ncaarecruiter.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb316406176#316406176#0(0"0(0#0#76"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/rb_main.rb8615942432#435"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/rb_main.rb /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Resources0#
+
+CLd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter normal x86_64
+s316406176.991404
+e316406177.014355
+r1
+xLd
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter
+xnormal
+xx86_64
+lSLF07#2@145"Link /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter316406176#316406177#0(0"0(0#0#0"8619290528#846"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug -F/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug -F/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug -filelist /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/macruby-ncaarecruiter.build/Debug/macruby-ncaarecruiter.build/Objects-normal/x86_64/macruby-ncaarecruiter.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/MacOS/macruby-ncaarecruiter0#
+
+CProcessInfoPlistFile /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Info.plist Info.plist
+s316406176.400662
+e316406176.404710
+r1
+xProcessInfoPlistFile
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist316406176#316406176#0(0"0(0#0#76"/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/Info.plist8617370016#411"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    builtin-infoPlistUtility Info.plist -genpkginfo /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app/Contents/Info.plist0#
+
+CTouch /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app
+s316406177.014435
+e316406177.016628
+r1
+xTouch
+x/Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app
+lSLF07#2@109"Touch /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app316406177#316406177#0(0"0(0#0#0"8619116064#199"    cd /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter    /usr/bin/touch -c /Users/kevinsheffield/Documents/Development/macruby-ncaarecruiter/build/Debug/macruby-ncaarecruiter.app0#
+
